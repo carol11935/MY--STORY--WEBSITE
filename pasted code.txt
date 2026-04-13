@@ -1,4 +1,6 @@
-!DOCTYPE html>
+    
+</body>
+</html><!DOCTYPE html>
 <html lang="en">
 <head>
 <tittle>My personal story webpage</tittle>
@@ -6,21 +8,22 @@
     <title>Document</title>
 </head>
 <body>
-<h1> caro's portifolio website
+<h1 style="background-color: beige;"> caro's portifolio website
 
 </h1>
-<p>My name is carol wambui.<br>
+<p style="background-color: aliceblue;">My name is carol wambui.<br>
     I am a student passionate about Information Technology in general.<br>
     I enjoy leraning new skills and improve knowledge in computing.
 </p>
-<h2> My goals in Technology.</h2>
-<p>My goal is becoming a professional programmer and a web developer.<br>
+<h2 style="background-color: bisque;" My goals in Technology.></h2>
+<p style="background-color: bisque;">
+My goal is becoming a professional programmer and a web developer.<br>
     I want to design modern websites .</p>
 <h3>Why i want to learn Web Development</h3>
 
-<p>I want to learn how to build interactive and attractive websites.<br>
+<p style="border: 0cqw;">
+    I want to learn how to build interactive and attractive websites.<br>
     This skill will help me achieve my dream career in tech field. 
-
 </p>
     
 </body>
